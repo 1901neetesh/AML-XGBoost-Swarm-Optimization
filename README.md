@@ -7,4 +7,3 @@
 
 # For Running the API locally
 uvicorn deployment.api:app --reload --port 8000
-
